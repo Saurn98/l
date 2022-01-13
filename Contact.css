@@ -1,0 +1,133 @@
+ .u-section-2 {
+  background-image: url("images/6c39727437993ae034629d18abc762a6aa8f69f0e9f5283bd3cb67f4225f4a7fff7f272c87bf6c149970b84d7cff0b9ec4ca2065537ad4219c87d4_1280.jpg");
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 768px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  width: 259px;
+  margin: 74px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 3rem;
+  margin: 60px 70px 0;
+}
+
+.u-section-2 .u-icon-1 {
+  color: rgb(0, 0, 0) !important;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  margin-top: 20px;
+  font-size: 3rem;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-2 {
+  background-image: none;
+  border-style: none;
+  font-size: 3rem;
+  margin: 70px auto 0;
+  padding: 0;
+}
+
+.u-section-2 .u-icon-2 {
+  color: rgb(0, 0, 0) !important;
+}
+
+.u-section-2 .u-text-3 {
+  font-weight: 700;
+  font-size: 1.875rem;
+  margin: 119px 682px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 920px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-top: 48px;
+    margin-left: 22px;
+    margin-right: 22px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-top: 82px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 482px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 919px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-top: 9px;
+    margin-left: 116px;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: auto;
+    margin-top: 59px;
+    margin-right: 262px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 787px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: 12px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-top: 23px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-top: 30px;
+    margin-right: 82px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 813px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-top: 28px;
+    margin-right: -115px;
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-top: 25px;
+    margin-right: 0;
+  }
+}
